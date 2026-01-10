@@ -1,0 +1,5 @@
+{
+  "name": "555 Timer Lab",
+  "description": "An interactive 555 Timer Astable Circuit simulator with real-time waveform visualization and an AI Lab Assistant.",
+  "requestFramePermissions": []
+}
